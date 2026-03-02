@@ -1,6 +1,6 @@
 # SLQ FOR DATA SCIENCE
 
-<p float="center"> <img src="images,jpg" width="30%" />
+<p float="center"> <img src="images.jpg" width="30%" />
 
 
 ### Introduction
